@@ -1,0 +1,86 @@
+.float-right {
+	float:right;
+}
+
+.margin-icon {
+	margin:2px 15px;
+}
+
+.textalign-center,#tbl_smart_todo th,#tbl_smart_todo td:nth-child(2),#tbl_smart_todo td:nth-child(3) {
+	text-align:center;
+}
+
+.hide {
+	display:none;
+}
+
+.fullwidth{
+   width:100%;
+}
+
+.halfwidth{
+   width:50%;
+   float:left;
+}
+
+.float-none{
+  float:none;
+}
+
+#donatebutton{
+  float:left;
+  width:100%;
+  margin:20px 0px;
+}
+
+#weblist ul,
+#videolist ul{
+	margin:5px;
+}
+
+#weblist li,
+#videolist li{
+	list-style:none;
+}
+
+.clear-both{
+  clear:both;
+}
+
+img.sherk_skills{
+   width:50%;
+   padding:0px;
+   margin: 5px 15px 5px 0px;
+   float:left;
+   height:auto;
+   -moz-box-shadow: -3px 2px 6px #000000;
+-webkit-box-shadow: -3px 2px 6px #000000;
+box-shadow: -3px 2px 6px #000000;
+}
+
+.web_item,
+.video_item{
+  border: solid 2px #000000;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
+  padding: 3px 5px;
+  background: #aaa;
+  color: #000;
+  -moz-box-shadow: -3px 2px 6px #000000;
+	-webkit-box-shadow: -3px 2px 6px #000000;
+	box-shadow: -3px 2px 6px #000000;
+}
+
+.video_item embed,
+.video_item iframe{
+  width:100%;
+}
+
+i.edit-web-sherk-skill,
+i.remove-web-sherk-skill,
+i.edit-video-sherk-skill,
+i.remove-video-sherk-skill{
+   padding:0px 3px;
+   cursor:pointer;
+}
