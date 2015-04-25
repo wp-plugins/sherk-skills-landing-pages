@@ -9,13 +9,13 @@ class SherkSkillsMetaBox {
 		add_action('add_meta_boxes', array($this, 'register_meta_boxes'));
 	
 		//save meta box values
-		//add_action('save_post', array($this, '_save_meta_boxes'), 1, 2);
+		add_action('save_post', array($this, '_save_meta_boxes'), 1, 2);
 		
 	}
 
 	
 	function register_meta_boxes(){
-		//$this->boxes[] = add_meta_box('key_sherk_skills','Scan and Replace Content for Skills', array($this, '_sherk_skills_html'), 'sherk_skills', 'side', 'high');
+		$this->boxes[] = add_meta_box('key_sherk_skills','Link this SKILL TAG to your Skill Landing Page', array($this, '_sherk_skills_html'), 'sherk_skills', 'side', 'high');
 		$this->boxes[] = add_meta_box('website_sherk_skills','Website Skill Resources', array($this, '_websites_sherk_skills_html'), 'sherk_skills', 'normal', 'high');
 		$this->boxes[] = add_meta_box('videos_sherk_skills','Video Skill Resources', array($this, '_videos_sherk_skills_html'), 'sherk_skills', 'normal', 'high');
 	}
@@ -25,10 +25,6 @@ class SherkSkillsMetaBox {
 		global $post;
 		
 		$meta = get_post_meta($post->ID, '_sherk_skills_meta',true);
-		
-		echo '<!-- WEehhe ';
-			print_r($meta);
-		echo '-->';
 		
 		if(empty($meta)){
 		    $meta['_sherk_skills_meta_websites']=array();
@@ -115,7 +111,8 @@ class SherkSkillsMetaBox {
 			
 			echo '<tr>';
 				echo '<td>';
-					echo 'Skill Key ex. css<br/><input class="large-text" type="text" name="_sherk_skills_meta_key" value="'.$meta_sherk_skills.'"/>';
+					echo 'Skill Key ex. css<br/><input class="large-text" type="text" name="_sherk_skills_meta_key" value="'.$meta_sherk_skills.'"/><br/>';
+					echo '<b>Warning</b>: <i>Extra careful on choosing your skill tags choose a single skill tag that are not predefined by programming languages.</i>';
 				echo '</td>';
 			echo '</tr>';
 			
@@ -127,7 +124,7 @@ class SherkSkillsMetaBox {
 	function _save_meta_boxes($post_id, $post){
 		global $post;
 		
-    	if ( !current_user_can( 'edit_post', $post->ID ) && ($post->post_type!='sherk_skills')){
+    	if ( !current_user_can( 'edit_posts', $post->ID ) && ($post->post_type!='sherk_skills')){
         	return $post->ID;
     	}//if
     	

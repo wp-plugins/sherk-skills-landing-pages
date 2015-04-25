@@ -4,7 +4,7 @@ Donate link: http://www.sherkspear.com/donate/
 Tags: skills, resume, personal resume, skills widget, widget
 Requires at least: 3.0.1
 Tested up to: 4.2
-Stable tag: 1.0
+Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -46,7 +46,7 @@ http://www.sherkspear.com/donate/
 == Screenshots ==
 
 1. Sherk Skills Post type at Dashboard
-2. Skills tag which search the contents of the website with this tag and add a link to the skill landing pages. (This has to released in the next version.)
+2. Scans contents with your Skill tags and linked them to your respective skill landing pages. 
 3. Website Skill Resources is added together with the Featured Image.
 4. Video Skill Resources is added from the edit form.
 5. The Sherk Skill post type frontend
@@ -57,6 +57,9 @@ http://www.sherkspear.com/donate/
 
 
 == Changelog ==
+
+= 1.1 =
+* Added functionality to scan the contents for skill tags and linked them to their skill landing pages.
 
 = 1.0 =
 * An initial update with the features added.

@@ -58,8 +58,7 @@ class SherkSkillsWidget extends WP_Widget {
 
 		if (!empty($title))
 		  echo '<h3 class="widgettitle">'.$before_title . $title . $after_title.'</h3>';
-		?>
-			
+		?>	
 			<div class="textwidget">
 				<ul class="bxslider">
 				   <?php
@@ -71,10 +70,9 @@ class SherkSkillsWidget extends WP_Widget {
 						}
 					}
 					echo $content;
-			?>
+				?>
 				</ul>
 			</div>
-
 		<?php
 		echo $after_widget;
 	}
