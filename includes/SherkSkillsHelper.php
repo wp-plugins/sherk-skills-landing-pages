@@ -25,10 +25,7 @@ class SherkSkillsHelper {
 		$request=$_POST['request'];
 		$post=get_post($post_id);
 		$access=current_user_can('edit_posts');
-		//echo json_encode($dataSherkSkills);
-		//$arrEncode =  (array) $_POST;
-        //echo json_encode($arrEncode);
-		//echo ' _postid='.$post_id;
+		
  		if ($request=='get') {
 			echo json_encode(array('access'=>$access, 'success'=>true, 'webs'=>get_post_meta( $post_id, '_web_sherk_skills', true),'videos'=>get_post_meta( $post_id, '_video_sherk_skills', true)));
 		} else if ($access==true) { //making sure valid user

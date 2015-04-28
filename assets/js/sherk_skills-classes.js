@@ -15,6 +15,18 @@ var SherkSkillsJS = function() {
 			moveSlides: 3,
 			slideMargin: 10
 		});
+		
+		$('.shortcode_bxslider').bxSlider({
+			auto: true,
+			autoControls: true,
+			captions: true,
+			adaptiveHeight:true,
+			slideWidth: 200,
+			minSlides: 2,
+			maxSlides: 3,
+			moveSlides: 3,
+			slideMargin: 10
+		});
 	});
 	
 };
