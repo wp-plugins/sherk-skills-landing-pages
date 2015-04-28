@@ -53,7 +53,7 @@ http://www.sherkspear.com/donate/
 5. The Sherk Skill post type frontend
 6. SherkSkill Widget is also available to be added.
 7. Widget content at the sidebar using carousel effect.
-8. Added shortcode functionality to display a carousel of skills. ex. [sherkskills title="This are my Skills"]
+8. Added shortcode functionality to display a carousel of skills. ex. [sherkskills title="These are my Skills"]
 
 == Upgrade Notice ==
 
@@ -71,7 +71,7 @@ http://www.sherkspear.com/donate/
 
 
 
-== Basic Instruction on Creating a SmartToDo ==
+== Basic Instruction on Creating a SherkSkill Post types ==
 
 1. Create Sherk Skill Post Type
 2. Add Sherk Skill tag at the upper right on the edit Sherk Skill view.
@@ -80,4 +80,5 @@ http://www.sherkspear.com/donate/
 5. Add Website References for your Skills.
 6. Add Video References for your Skills.
 7. Add the Sherk Skill widgets to your widget area.
+8. Added shortcode functionality to display a carousel of skills. ex. [sherkskills title="These are my Skills"]
 
