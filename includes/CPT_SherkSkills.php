@@ -88,7 +88,7 @@ class CPTSherkSkills {
 		    $sherk_skills_keys=SherkSkillsHelper::get_all_sherk_skills_keys();
 			foreach($sherk_skills_keys as $sherk_skills_key){
 				if($sherk_skills_key['key']!=''){
-					$regex='/('.$sherk_skills_key['key'].')(?![\s\w]*?[\'"])(?!(?!.*?<a)(?=.*?<\/a>))/';
+					$regex='/('.$sherk_skills_key['key'].')(?![\/\.\s\w]*?[\'"])(?!(?!.*?<a)(?=.*?<\/a>))/';
 					$content = preg_replace ($regex,
 				 '<a href="'.$sherk_skills_key['url'].'">'.$sherk_skills_key['key'].'</a>',
 				 $content);

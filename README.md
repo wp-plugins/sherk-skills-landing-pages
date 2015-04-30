@@ -4,7 +4,7 @@ Donate link: http://www.sherkspear.com/donate/
 Tags: skills, resume, personal resume, skills widget, widget, skills landing page, shortcode
 Requires at least: 3.0.1
 Tested up to: 4.1.1
-Stable tag: 1.2
+Stable tag: 1.2.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -38,8 +38,8 @@ This section describes how to install the plugin and get it working.
 
 == Frequently Asked Questions ==
 
-= I have a lot of money and I would like to donate some of it because I'm so happy, where do i go? :D
-http://www.sherkspear.com/donate/ 
+= Is it possible to update the styles to match my present theme?
+Yes and you can contact me at contact@sherkspear.com for custom updates on theme.
 
 
 
@@ -59,6 +59,9 @@ http://www.sherkspear.com/donate/
 
 
 == Changelog ==
+= 1.2.1 =
+* Fixed the bugs on the regular expression for contents.
+
 = 1.2 =
 * Shortcode for sherkskills carousel ex. [sherkskills title="This are my Skills"] .
 

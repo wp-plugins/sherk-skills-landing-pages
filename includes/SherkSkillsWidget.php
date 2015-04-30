@@ -62,14 +62,14 @@ class SherkSkillsWidget extends WP_Widget {
 			<div class="textwidget">
 				<ul class="bxslider">
 				   <?php
-				   $content='';
+				   $widget_body='';
 				   $sherk_skills_keys=SherkSkillsHelper::get_all_sherk_skills_keys();
 					foreach($sherk_skills_keys as $sherk_skills_key){
 						if($sherk_skills_key['img_url']!=''){
-							$content .= '<li><a href="'.$sherk_skills_key['url'].'"><img width="100%" src="'.$sherk_skills_key['img_url'].'" title="'.$sherk_skills_key['title'].'"/></a></li>'; 
+							$widget_body .= '<li><a href="'.$sherk_skills_key['url'].'"><img width="100%" src="'.$sherk_skills_key['img_url'].'" title="'.$sherk_skills_key['title'].'"/></a></li>'; 
 						}
 					}
-					echo $content;
+					echo $widget_body;
 				?>
 				</ul>
 			</div>

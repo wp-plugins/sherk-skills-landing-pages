@@ -31,7 +31,7 @@ class SherkSkillsShortcode {
 			</ul>
 		</div>';
 	
-		echo $shortcodecontent;
+		return $shortcodecontent;
 	}
 	
 	

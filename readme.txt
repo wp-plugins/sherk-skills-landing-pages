@@ -4,7 +4,7 @@ Donate link: http://www.sherkspear.com/donate/
 Tags: skills, resume, personal resume, skills widget, widget, skills landing page, shortcode
 Requires at least: 3.0.1
 Tested up to: 4.1.1
-Stable tag: 1.2
+Stable tag: 1.2.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -15,7 +15,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 It is now easy to present our set of skills to be added to our Personal WordPress Websites. The plugin creates post type for skills having featured image into it.
 The best thing about the plugin is that you are able to replace all the skills tag that found at the content sitewide with the link to your skills landing page. 
 You can also add your skills to your widgets area through widget functionality. A carousel of featured images from your skills are added to your widget contents.
-Added shortcode functionality to display a carousel of skills by adding a shortcode inside WYSIWYG page editor [sherkskills title="These are my Skills"] . 
+Added shortcode functionality to display a carousel of skills [sherkskills title="This are my Skills"] . 
 
 Create landing pages for your skills with description, trainings, related videos and related links. Search the contents of the website with your skills tags and replaced links to your skills landing page. Widgets with beautiful carousel using featured images set to your landing pages.
 
@@ -38,8 +38,8 @@ This section describes how to install the plugin and get it working.
 
 == Frequently Asked Questions ==
 
-= I have a lot of money and I would like to donate some of it because I'm so happy, where do i go? :D
-http://www.sherkspear.com/donate/ 
+= Is it possible to update the styles to match my present theme?
+Yes and you can contact me at contact@sherkspear.com for custom updates on theme.
 
 
 
@@ -59,6 +59,9 @@ http://www.sherkspear.com/donate/
 
 
 == Changelog ==
+= 1.2.1 =
+* Fixed the bugs on the regular expression for contents.
+
 = 1.2 =
 * Shortcode for sherkskills carousel ex. [sherkskills title="This are my Skills"] .
 
