@@ -83,7 +83,7 @@ Create landing pages for your skills with description, trainings, related videos
 						
 						
 			<p style="background:#191919;padding: 10px;text-align:center">
-				<a target="_blank" href="http://www.sherkspear.com"><img src="<?php echo SherkBanners::get_plugin_url();?>assets/images/logo.png" align="center" width="350"/></a>
+				<a target="_blank" href="http://www.sherkspear.com"><img src="<?php echo SherkSkills::get_plugin_url();?>assets/images/logo.png" align="center" width="350"/></a>
 			</p>
 			<p>
 				<b>Sherk Skills WordPress Plugin</b> is created by <a target="_blank" href="http://www.sherkspear.com"><b>SherkSpear</b></a>.<br/>
