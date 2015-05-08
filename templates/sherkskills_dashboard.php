@@ -87,18 +87,29 @@ Create landing pages for your skills with description, trainings, related videos
 			</p>
 			<p>
 				<b>Sherk Skills WordPress Plugin</b> is created by <a target="_blank" href="http://www.sherkspear.com"><b>SherkSpear</b></a>.<br/>
-				<a target="_blank" href="http://www.sherkspear.com"><b>SherkSpear</b></a> is an IT provider which makes use of the Agile methodology for web development to create innovative websites from simple Blog sites, or with WordPress websites, Drupal, and such. It also provides web services like a quick fix to your website bugs, IT consultations, and providing reasonable quotes to your projects. <br/>
+				<a target="_blank" href="http://www.sherkspear.com"><b>SherkSpear</b></a> is an IT provider which makes use of the Agile methodology for web development to create innovative websites from simple Blog sites, or with WordPress websites, Drupal, and such.<br/>It also provides web services like a quick fix to your website bugs, IT consultations, and providing reasonable quotes to your projects. <br/><hr/>
+				<h3>SherkSpear Offered Services:</h3>
+				<ul>
+					<li><b><a href="http://www.sherkspear.com/contact/?help=http://www.sherkspear.com/contact/?help=Consultation" target="_blank">Website Consultations</a><b/></li>
+					<li><b><a href="http://www.sherkspear.com/contact/?help=Quick%20Fix" target="_blank">Quick Fix a bug</a><b/></li>
+					<li><b><a href="http://www.sherkspear.com/contact/?help=Report%20Bugs" target="_blank">Report a bug</a><b/></li>
+					<li><b><a href="http://www.sherkspear.com/contact/?help=I%20want%20to%20hire%20you" target="_blank">Hiring</a><b/></li>
+					<li><b><a href="http://www.sherkspear.com/contact/?help=Asking%20for%20a%20Quote" target="_blank">Quote Inquiry</a><b/></li>
+				
+				</ul><br/><br/>
+				<hr/>
 				<b>Portfolio:<b/> <a target="_blank" href="http://www.sherkspear.com/portfolio"><i>SherkSpear's Portfolio</i></a> <br/>
+				<b>Resume:<b/> <a target="_blank" href="http://www.sherkspear.com/resume"><i>SherkSpear's Resume</i></a> <br/>
 				<b>Browse my other WordPress Plugins:<b/> <a target="_blank" href="https://profiles.wordpress.org/sherkspear/#content-plugins"><i>SherkSpear's WordPress Plugins</i></a> <br/>
 			</p>
 			<p>
-			   Feel free to <a target="_blank" href="http://www.sherkspear.com/contact">contact me</a> in case of issues you might encounter and/or customization regarding this plugin. You can contact me through email <a href="mailto:contact@sherkspear.com" target="_blank">contact@sherkspear</a> or fill the form provided at <a href="http://www.sherkspear.com/contact" target="_blank">SherkSpear Contact</a>.
+			   Feel free to <a target="_blank" href="http://www.sherkspear.com/contact">contact me</a> in case of issues you might encounter and/or customization regarding this plugin or any <a href="http://www.sherkspear.com/contact/?help=Suggestions" target="_blank">suggestions</a>. You can contact me through email <a href="mailto:contact@sherkspear.com" target="_blank">contact@sherkspear</a> or fill the form provided at <a href="http://www.sherkspear.com/contact" target="_blank">SherkSpear Contact</a>.
 			</p>
 			<p style="text-align:center">
 			    <div style="text-align:center" class="float-none"><form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
 <input type="hidden" name="hosted_button_id" value="H8GHAJZQA2B86">
-<input type="image" src="http://www.sherkspear.com/wp-content/uploads/2015/05/senddollarhappiness.png" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<input type="image" src="http://www.sherkspear.com/wp-content/uploads/2015/05/sendPaypal1.png" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
 </div>

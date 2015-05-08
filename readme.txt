@@ -4,7 +4,7 @@ Donate link: http://www.sherkspear.com/donate/
 Tags: skills, resume, personal resume, skills widget, widget, skills landing page, shortcode
 Requires at least: 3.0.1
 Tested up to: 4.1.1
-Stable tag: 1.2.2
+Stable tag: 1.2.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -59,6 +59,9 @@ Yes and you can contact me at contact@sherkspear.com for custom updates on theme
 
 
 == Changelog ==
+= 1.2.3 =
+* Updated the How To Use dashboard.
+
 = 1.2.2 =
 * Add how to use submenu.
 
