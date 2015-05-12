@@ -35,7 +35,7 @@ Create landing pages for your skills with description, trainings, related videos
 				<li>SherkSkills post type should now available at dashboard and start creating sherkskills post type.</li>
 			</ol>
 			
-			<h3>Basic Instruction on Creating a SherkBanner Post types</h3>
+			<h3>Basic Instruction on Creating a SherkSkill Post types</h3>
 
 			<ol>
 				<li>Create Sherk Skill Post Type</li>
