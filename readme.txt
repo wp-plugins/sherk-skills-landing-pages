@@ -20,10 +20,10 @@ Added shortcode functionality to display a carousel of skills [sherkskills title
 Create landing pages for your skills with description, trainings, related videos and related links. Search the contents of the website with your skills tags and replaced links to your skills landing page. Widgets with beautiful carousel using featured images set to your landing pages.
 
 
-You can email me directly for any plugin request or personal modification such as styles and templates at contact@sherkspear.com or contact me at http://sherkspear.com/contact
+You can email me directly for any plugin request or personal modification such as styles and templates at <contact@sherkspear.com> or contact me at <http://sherkspear.com/contact>
 
 
-Plugin URI: http://www.sherkspear.com/portfolio-item/sherk-skills-wordpress-plugin/
+Plugin URI: <http://www.sherkspear.com/portfolio-item/sherk-skills-wordpress-plugin/>
 
 
 == Installation ==
@@ -34,7 +34,20 @@ This section describes how to install the plugin and get it working.
 2. Upload sherk-skills directory to the `/wp-content/plugins/` directory
 3. Activate the plugin through the 'Plugins' menu in WordPress
 4. Update the Permalinks on settings.
-5. SherkSkills post type should now available at dashboard and start creating sherkskills post type.
+5. SherkSkills post type should now available at dashboard and start creating sherkskills post type.   
+
+<h3>Basic Instruction on Creating a SherkSkill Post types</h3>
+
+1. Create Sherk Skill Post Type
+2. Add Sherk Skill tag at the upper right on the edit Sherk Skill view.
+3. Add Sherk Skill category.
+4. Add Featured Image for the Sherk Skill which is to be shown at the frontend and Widgets.
+5. Add Website References for your Skills.
+6. Add Video References for your Skills.
+7. Add the Sherk Skill widgets to your widget area.
+8. Added shortcode functionality to display a carousel of skills. ex. **[sherkskills title="These are my Skills"]**
+
+*Detailed instruction at Dashboard-> SherkSkills->How To Use `/wp-admin/edit.php?post_type=sherk_skills&page=sherkskills_info`
 
 == Frequently Asked Questions ==
 
@@ -53,7 +66,7 @@ Yes and you can contact me at contact@sherkspear.com for custom updates on theme
 5. The Sherk Skill post type frontend
 6. SherkSkill Widget is also available to be added.
 7. Widget content at the sidebar using carousel effect.
-8. Added shortcode functionality to display a carousel of skills. ex. [sherkskills title="These are my Skills"]
+8. Added shortcode functionality to display a carousel of skills. ex.   **[sherkskills title="These are my Skills"]**
 
 == Upgrade Notice ==
 
@@ -69,7 +82,7 @@ Yes and you can contact me at contact@sherkspear.com for custom updates on theme
 * Fixed the bugs on the regular expression for contents.
 
 = 1.2 =
-* Shortcode for sherkskills carousel ex. [sherkskills title="This are my Skills"] .
+* Shortcode for sherkskills carousel ex. **[sherkskills title="This are my Skills"]** .
 
 = 1.1 =
 * Added skills tag on replacing with link to skills landing page.
@@ -80,14 +93,10 @@ Yes and you can contact me at contact@sherkspear.com for custom updates on theme
 
 
 
-== Basic Instruction on Creating a SherkSkill Post types ==
+== Detailed Instruction==
 
-1. Create Sherk Skill Post Type
-2. Add Sherk Skill tag at the upper right on the edit Sherk Skill view.
-3. Add Sherk Skill category.
-4. Add Featured Image for the Sherk Skill which is to be shown at the frontend and Widgets.
-5. Add Website References for your Skills.
-6. Add Video References for your Skills.
-7. Add the Sherk Skill widgets to your widget area.
-8. Added shortcode functionality to display a carousel of skills. ex. [sherkskills title="These are my Skills"]
+After installing the plugin you will find   
+*Detailed instruction at    
+**Dashboard-> SherkSkills->How To Use**   
+`/wp-admin/edit.php?post_type=sherk_skills&page=sherkskills_info`
 
