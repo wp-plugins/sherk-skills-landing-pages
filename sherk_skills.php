@@ -2,8 +2,8 @@
 /*
 Plugin Name: Sherk Skills Landing Pages
 Plugin URI: http://www.sherkspear.com/portfolio-item/sherk-skills-wordpress-plugin/
-Description: Create landing pages for your skills with description, trainings, related videos and related links. Search the contents of the website with your skills tags and replaced links to your skills landing page. Widgets with beautiful carousel using featured images set to your landing pages.
-Version: 1.2.3
+Description: Landing pages for your skills with videos and websites references of your trainings.Widgets and shortcodes are implemented for displays.
+Version: 1.3
 Author: Sherwin Calims
 Author URI: http://www.sherkspear.com
 
