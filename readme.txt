@@ -13,10 +13,14 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 == Description ==
 
 Landing pages for your skills with videos and websites references of your trainings.Widgets and shortcodes are implemented for displays.
+
 It is now easy to present our set of skills to be added to our Personal WordPress Websites. The plugin creates post type for skills having featured image into it.
+
 The best thing about the plugin is that you are able to replace all the skills tag that found at the content sitewide with the link to your skills landing page. 
+
 You can also add your skills to your widgets area through widget functionality. A carousel of featured images from your skills are added to your widget contents.
-Added shortcode functionality to display a carousel of skills [sherkskills title="These are my Skills"] . 
+
+Added shortcode functionality to display a carousel of skills **[sherkskills title="These are my Skills"]** . 
 
 Create landing pages for your skills with description, trainings, related videos and related links. Search the contents of the website with your skills tags and replaced links to your skills landing page. Widgets with beautiful carousel using featured images set to your landing pages.
 
@@ -25,11 +29,11 @@ You can email me directly for any plugin request or personal modification such a
 
 
 Plugin URI: <http://www.sherkspear.com/portfolio-item/sherk-skills-wordpress-plugin/>
-
+Demo Page: <http://www.sherkspear.com/sherk_skills/html/>
 
 == Installation ==
 
-This section describes how to install the plugin and get it working.
+<h3>This section describes how to install the plugin and get it working.</h3>
 
 1. BACKUP everything before you install the plugin.
 2. Upload sherk-skills directory to the `/wp-content/plugins/` directory
@@ -61,22 +65,21 @@ This section describes how to install the plugin and get it working.
 **[sherkskills title="These are my Skills"]**  
 2. Copy the shortcode, paste it to the content text editor and update the title of your shortcode.
 
+
 <h3>Parameters Available</h3>
 
-**title**   
-*Title of your Skills Slider*   
-default: **''**   
-options: **string**   
+**title**     
+*Title of your Skills Slider*     
+default: **''**     
+options: **string**     
 
 
-**Detailed instruction at Dashboard-> SherkSkills->How To Use**    `/wp-admin/edit.php?post_type=sherk_skills&page=sherkskills_info`
+**Detailed instruction at Dashboard-> SherkSkills->How To Use**      `/wp-admin/edit.php?post_type=sherk_skills&page=sherkskills_info`
 
 == Frequently Asked Questions ==
 
 = Is it possible to update the styles to match my present theme?
 Yes and you can contact me at contact@sherkspear.com for custom updates on theme.
-
-
 
 
 == Screenshots ==
@@ -123,6 +126,6 @@ Yes and you can contact me at contact@sherkspear.com for custom updates on theme
 
 After installing the plugin you will find   
 *Detailed instruction at*    
-**Dashboard-> SherkSkills->How To Use**   
+**Dashboard-> SherkSkills->How To Use**    
 `/wp-admin/edit.php?post_type=sherk_skills&page=sherkskills_info`
 
